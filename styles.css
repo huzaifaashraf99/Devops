@@ -560,7 +560,7 @@ body {
     transform: scale(1.05);
 }
 
-/* Contact Section */
+/* Contact Section link style hover effect for social links  */
 .contact {
     padding: 8rem 0;
     background: var(--bg-light);
